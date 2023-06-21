@@ -1,6 +1,6 @@
 NOTE: MAKE SURE YOU HAVE PYTHON 3.7 AND HIGHER VERSION.
 
-1. pip install virtalenv (execute this statement) in your local machine.
+1. pip install virtualenv (execute this statement) in your local machine.
 
 2. Open the folder
 
